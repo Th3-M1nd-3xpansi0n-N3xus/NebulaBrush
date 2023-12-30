@@ -23,7 +23,7 @@ def generate_default_config():
     config['DISCORD'] = {
         'TOKEN': 'YOUR_DEFAULT_DISCORD_BOT_TOKEN'
     }
-    config['LOCAL'] = {
+    config['API'] = {
         'SERVER_ADDRESS': 'YOUR_COMFYUI_URL'
     }
     config['API'] = {
